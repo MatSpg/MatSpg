@@ -1,4 +1,4 @@
-<h1 align="center">Ciao! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Ciao! 👋</h1>
 
 <p align="center">
     <b>Benvenuto nel mio profilo!</b><br><br>
@@ -23,14 +23,14 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&color=f7cf44&labelColor=3470a0&logoColor=ffffff)](https://github.com/MatSpg)
 
 ## Librerie & Framework
-> ### Javascript
->> ##### Librerie
->>> [![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&color=0865a7&labelColor=ffffff)](https://github.com/MatSpg)
->> ##### Framework
->>> [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&color=bd002e&labelColor=fffffff)](https://github.com/MatSpg)
 > ### Java
 >> ##### Framework
->>> [![Spring Boot](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&color=6db33f&labelColor=ffffff)](https://github.com/MatSpg)
+>>> [![Spring Boot](https://img.shields.io/badge/spring_boot-black?style=for-the-badge&logo=spring&color=6db33f&labelColor=ffffff)](https://github.com/MatSpg)
+> ### Javascript
+>> ##### Framework
+>>> [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&color=bd002e&labelColor=fffffff)](https://github.com/MatSpg)
+>> ##### Librerie
+>>> [![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&color=0865a7&labelColor=ffffff)](https://github.com/MatSpg)
 
 ## Database
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&color=dd8b19&labelColor=005e86&logoColor=ffffff)](https://github.com/MatSpg)
