@@ -29,7 +29,7 @@
 > ### Javascript
 >> ##### Framework
 >>> [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&color=bd002e&labelColor=fffffff)](https://github.com/MatSpg)
->>> [![Ionic - Angular](https://img.shields.io/badge/ionic-black?style=for-the-badge&logo=ionic&color=ffffff&labelColor=3880ff)](https://github.com/MatSpg)
+>>> [![Ionic - Angular](https://img.shields.io/badge/ionic-black?style=for-the-badge&logo=ionic&color=3880ff&labelColor=fff)](https://github.com/MatSpg)
 >> ##### Librerie
 >>> [![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&color=0865a7&labelColor=ffffff)](https://github.com/MatSpg)
 
