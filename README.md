@@ -4,10 +4,10 @@
   <b>Benvenuto nel mio profilo GitHub!</b><br><br>
   <i>
     Full-Stack Web Developer con esperienza nello sviluppo <br>
-    Front-end e Back-end, attualmente in stage presso <b>ReActive - Gruppo Almaviva</b>.<br>
+    Front-end e Back-end</b>.<br>
     Appassionato di tecnologia, sempre alla ricerca di nuove sfide per crescere professionalmente. 🚀
   </i><br><br>
-  <a href="https://www.linkedin.com/in/mattiasp0">
+  <a href="https://www.linkedin.com/in/mattiaspagnuolo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
