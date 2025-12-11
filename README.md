@@ -53,7 +53,7 @@
 ---
 
 ## 💼 Esperienze Professionali
-- **Front-end & Back-end Developer (Stage) – ReActive Gruppo Almaviva** (10.2024 – Attuale)  
+- **Full-Stack Developer – ReActive Gruppo AlmavivA** (10.2024 – Attuale)  
   🔹 Sviluppo **Full-Stack** su progetti reali con **Java (Spring Framework)** e **Angular**.  
   🔹 Esperienza con **OracleDB, PostgreSQL, MongoDB, BEAR** e strumenti di collaborazione.  
 
